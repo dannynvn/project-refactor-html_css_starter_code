@@ -1,17 +1,17 @@
-# Bootcamp Challenge 01: HTML and CSS
+# Project: Refactoring HTML and CSS Starter Code
 
 ## Description
 
-This project is Challenge 1 of a boot camp. The challenge type is an on-the-job ticket that requires refactoring existing code to meet accessibility standards.
+This project type is an on-the-job ticket that requires refactoring existing code to meet accessibility standards.
 
-Given starter code for a fictional company's website, I needed to improve readability and accessibility by adding correct HTML semantics and consolidate CSS style code. 
+Given starter code for a fictional company's website, I need to improve readability and accessibility by adding correct HTML semantics and consolidate CSS style code. 
 
 
 ## Installation
 
-The assignment is an HTML webpage, so it can be viewed in a browser. 
+This is an HTML webpage, so it can be viewed in a browser. 
 
-Link to deployed website: [https://dannynvn.github.io/bootcamp-challenge01-html_css/](https://dannynvn.github.io/bootcamp-challenge01-html_css/)
+Link to deployed website: [https://dannynvn.github.io/project-refactor-html_css_starter_code/](https://dannynvn.github.io/project-refactor-html_css_starter_code/)
 
 Screenshot of fictional webpage below:
 ![screenshot of fictional website](assets/images/screenshot-bootcamp-challenge01-website-1.png)
